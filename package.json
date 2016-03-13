@@ -1,0 +1,9 @@
+{
+	"name": "Lolo",
+	"version": "0.0.1",
+	"devDependencies": {
+		"grunt": "latest",
+		"glob": "latest",
+		"chai": "latest"
+	}
+}
